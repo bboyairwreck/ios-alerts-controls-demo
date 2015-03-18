@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2FA2863624214E0B2BC6FA33"
+               BuildableName = "Alert and Slider Demo.app"
+               BlueprintName = "Alert and Slider Demo"
+               ReferencedContainer = "container:Alert and Slider Demo.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "2FA2863624214E0B2BC6FA33"
+            BuildableName = "Alert and Slider Demo.app"
+            BlueprintName = "Alert and Slider Demo"
+            ReferencedContainer = "container:Alert and Slider Demo.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>
